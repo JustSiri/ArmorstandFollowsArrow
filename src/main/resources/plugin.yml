@@ -1,0 +1,4 @@
+name: ArmorstandFollowArrow
+version: ${project.version}
+main: afa.justsiri.armorstandfollowarrow.ArmorstandFollowArrow
+api-version: 1.16
